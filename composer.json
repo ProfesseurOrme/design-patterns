@@ -1,0 +1,17 @@
+{
+    "name": "matthieu.g/patterns",
+    "description": "Exemple of design patterns for education purposes",
+    "type": "project",
+    "authors": [
+        {
+            "name": "ProfesseurOrme",
+            "email": "matth.guilloteau@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Pattern\\" : "patterns/"
+        }
+    },
+    "require": {}
+}
